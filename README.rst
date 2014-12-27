@@ -7,7 +7,17 @@ Project.
 Licensing
 ---------
 
-Each asset is licensed differently. Unless explicitly defined below, it is
-supplied under the Creative Commons Attribution-Noncommercial-Share Alike 3.0
-United States License as described by
-http://creativecommons.org/licenses/by-nc-sa/3.0/us/
+Each asset is licensed differently. The various licenses are defined below
+and assets are tagged to each license. Unless explicitly defined below, an
+asset is supplied under the CC-NC-SA license.
+
+``CC-NC-SA``
+
+  Creative Commons Attribution-Noncommercial-Share Alike 3.0
+  United States License as described by
+  http://creativecommons.org/licenses/by-nc-sa/3.0/us/.
+
+Assets
+------
+
+- ``pyramid/router.svg`` (``CC-NC-SA``)
