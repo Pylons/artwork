@@ -22,3 +22,5 @@ Assets
 ------
 
 - ``pyramid/router.svg`` (CC BY-NC-SA 3.0 US)
+- ``pylons_sphinx_theme/in_progress.psd`` (CC BY-NC-SA 3.0 US)
+- ``pylons_sphinx_theme/in_progress.png`` (CC BY-NC-SA 3.0 US)
