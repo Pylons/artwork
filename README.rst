@@ -21,6 +21,11 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/us/.
 Assets
 ------
 
-- ``pyramid/router.svg`` (CC BY-NC-SA 3.0 US)
 - ``pylons_sphinx_theme/in_progress.psd`` (CC BY-NC-SA 3.0 US)
 - ``pylons_sphinx_theme/in_progress.png`` (CC BY-NC-SA 3.0 US)
+- ``pyramid/pyramid_request_processing.graffle`` (CC BY-NC-SA 3.0 US)
+- ``pyramid/pyramid_request_processing.png`` (CC BY-NC-SA 3.0 US)
+- ``pyramid/pyramid_request_processing.svg`` (CC BY-NC-SA 3.0 US)
+- ``pyramid/pyramid_router.graffle`` (CC BY-NC-SA 3.0 US)
+- ``pyramid/pyramid_router.png`` (CC BY-NC-SA 3.0 US)
+- ``pyramid/pyramid_router.svg`` (CC BY-NC-SA 3.0 US)
